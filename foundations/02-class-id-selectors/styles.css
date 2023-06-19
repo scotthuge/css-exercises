@@ -1,0 +1,20 @@
+.oddno,
+.oddno2 {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans',sans-serif;
+}
+
+.oddno2 {
+    font-size: 24px;
+}
+
+#no2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
